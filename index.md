@@ -2,11 +2,11 @@
 layout: workshop
 carpentry: "swc"
 venue: "Simon Fraser University"
-address: "Exact location TBA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Applied Science Building 10908 (SFU's Big Data Hub, KEY)"
 country: "ca"
 language: "en"
-latlng: "49.276765, -122.917957"
-humandate: "Jan 21-22, 2019"
+latlng: "49.277383, -122.914367"
+humandate: "January 21-22, 2019"
 humantime: "9:00am - 4:00pm"
 startdate: 2019-01-21
 enddate: 2019-01-22
