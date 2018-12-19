@@ -7,7 +7,7 @@ country: "ca"
 language: "en"
 latlng: "49.277383, -122.914367"
 humandate: "January 21-22, 2019"
-humantime: "9:00am - 4:00pm"
+humantime: "9:30am - 4:30pm"
 startdate: 2019-01-21
 enddate: 2019-01-22
 instructor: ["Alex Razoumov"] #, "someone else"]
