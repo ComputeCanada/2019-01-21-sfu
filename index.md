@@ -6,10 +6,10 @@ address: "Applied Science Building 10908 (SFU's Big Data Hub, KEY)"
 country: "ca"
 language: "en"
 latlng: "49.277383, -122.914367"
-humandate: "January 21-22, 2019"
+humandate: "February 4-5, 2019"
 humantime: "9:30am - 4:30pm"
-startdate: 2019-01-21
-enddate: 2019-01-22
+startdate: 2019-02-04
+enddate: 2019-02-05
 instructor: ["Alex Razoumov"] #, "someone else"]
 helper: ["Joel Therrien"]
 email: ["alex.razoumov@westgrid.ca"]
